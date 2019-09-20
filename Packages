@@ -1,3 +1,20 @@
+Package: co.nullpixel.CraShit
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
+Filename: ./debs/co.nullpixel.CraShit_1.1_iphoneos-arm.deb
+Size: 8236
+MD5sum: 3c1a252673b68f97666c79ad80999246
+SHA1: 168d072dba9b58b7d73176080e9b35e2b30d22ed
+SHA256: 1b70e6c1cc04f78312ff9a73331e1721a78ffac7905d53667a2692d9007f001f
+Section: Utilities
+Description: Respring your phone easily!
+Author: Jamie Bishop <tweaks@nullpixel.uk>
+Homepage: https://nullpixel.uk
+Installed-Size: 140
+Name: CraShit
+https: //repo.nullpixel.uk/depiction/co.nullpixel.crashit
+
 Package: com.arcticsn0w.basictweak
 Version: 0.1~alpha0-1
 Architecture: iphoneos-arm
