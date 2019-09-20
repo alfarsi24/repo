@@ -31,6 +31,25 @@ Author: Abraham Levine
 Installed-Size: 112
 Name: BasicTweak
 
+Package: com.artikus.neonboard
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Depends: mobilesubstrate
+Conflicts: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard
+Replaces: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
+Filename: ./debs/com.artikus.neonboard_2.0.0_iphoneos-arm.deb
+Size: 74578
+MD5sum: 3d8b480654fddf22038a49ba1a13ab52
+SHA1: ddf95fa3c02b2893336e3a69a1cf0a53b5b09eee
+SHA256: 83bf5d23cf30606921c7f13e597c873edca28efde2dd6e032bde7630623cffa2
+Section: Tweaks
+Description: A small and unfinished theming engine I made as an experiment.
+Author: ArtikusHG
+Installed-Size: 448
+Name: NeonBoard
+Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
+
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1-6+debug
 Architecture: iphoneos-arm
