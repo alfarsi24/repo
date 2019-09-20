@@ -82,3 +82,19 @@ Author: PoomSmart
 Installed-Size: 1764
 Name: Caller ID Flipswitch
 
+Package: net.limneos.fixactivatorplaypause
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, libactivator
+Filename: ./debs/net.limneos.fixactivatorplaypause_0.0.1-4_iphoneos-arm.deb
+Size: 2532
+MD5sum: e9614e86775b1253ae75e43f1a2195e0
+SHA1: ac1f3eb0391f0761a3b78bd7b569b8b7cb7b92ae
+SHA256: 1994d548ad64202ddc68de686a63c3104afbb135aa12ccfe51e44b9ebd588c08
+Section: Tweaks
+Description: A patch for Activator that fixes play/pause toggle action on iOS 11.3.x
+Author: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 72
+Name: Activator Play/Pause fix 11.3.x
+
