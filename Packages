@@ -1,16 +1,16 @@
-Package: com.julioverne.cracktool4
-Version: 4.0~beta5
+Package: com.arcticsn0w.basictweak
+Version: 0.1~alpha0-1
 Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./deb/com.julioverne.cracktool4_4.0~beta5_iphoneos-arm.deb
-Size: 125248
-MD5sum: 1e1621b61280df46fefde1c779c01593
-SHA1: db1a6297521224972beaa864c0d367de5c31f14d
-SHA256: 9d6a0ed08402ae25dc3d375f9b0dfc2081024c6a8c597c10ab1ee5c5c6f0c8da
-Section: Utilities
-Description: Crack Tweaks on one click
-Author: julioverne
-Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
-Homepage: http://twitter.com/ijulioverne
-Name: CrackTool4 (iOS 12)
+Maintainer: Abraham Levine
+Depends: mobilesubstrate
+Filename: ./debs/com.arcticsn0w.basictweak_0.1-alpha0-1_iphoneos-arm.deb
+Size: 6126
+MD5sum: 9bc706d627065d472aee4c111e8a5332
+SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
+SHA256: 1729cff02c4618dec5cebadba8b6e5129838d13b2cdd7cd13701fe3c6428d727
+Section: Tweaks
+Description: changes slider text because why not
+Author: Abraham Levine
+Installed-Size: 112
+Name: BasicTweak
+
