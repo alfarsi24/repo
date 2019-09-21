@@ -15,6 +15,23 @@ Installed-Size: 140
 Name: CraShit
 https: //repo.nullpixel.uk/depiction/co.nullpixel.crashit
 
+Package: co.xrepo.mokadam.hackpubgnew
+Version: 0.14.0d
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/co.xrepo.mokadam.hackpubgnew_0.14.deb
+Size: 165250
+MD5sum: 63aed59085eea7fadb900443b3a238d4
+SHA1: 7dbfde5ca28f83122e2fb6a3b5a91986d00733e4
+SHA256: 98af2ac1c81b75931ff813013d125e7a0d0177b73304451e46e574afbfaaf3a4
+Section: PUBG Hack.
+Author: ahmadmokaddam
+Name: Pubg Hack 0.14.0
+SileoDepiction: http://mokadam.xrepo.co/sileo.php?pid=1064
+Source: Pubg hack for 0.14.0
+Sponsor: xRepo.co <http://xRepo.co>
+
 Package: com.arcticsn0w.basictweak
 Version: 0.1~alpha0-1
 Architecture: iphoneos-arm
