@@ -189,6 +189,24 @@ Author: Jonathan Winger-lang <mmnnm1937@hotmail.com>
 Installed-Size: 1464
 Name: Snapper 2 R
 
+Package: com.ziad.storefeatures
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ziad.storefeatures_1.2_iphoneos-arm.deb
+Size: 54128
+MD5sum: 77929ba94cf45a529c43a14d9ae81806
+SHA1: a60b75bf1551003492902e0be76640584682fbac
+SHA256: ff5133be69296851193d567c3886e5303e2759f93faf9c2dbff3a2471e4d09c0
+Section: Tweaks
+Description: اضافة مميزات للسيديا
+Author: aJBboCydia <mmnnm1937@hotmail.com>
+Installed-Size: 478
+Name: Store Features Z
+compatible: :ios10, compatible::ios11, compatible::ios12
+dev: ajbbocydia
+
 Package: com.ziad.translomatic
 Version: 1.2.10
 Architecture: iphoneos-arm
