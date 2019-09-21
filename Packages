@@ -153,6 +153,23 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.translomatic
+Version: 1.2.10
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./debs/com.ziad.translomatic_1.2.10_iphoneos-arm.deb
+Size: 240380
+MD5sum: add659f8d10c3d0dc42d912299707990
+SHA1: 7c2115379fbd1c59eea95e2d70adafed76fdcf7d
+SHA256: 13aaf21020885d5e971bec27ac788b9eb186eda8af69b9465132ae2b699e3d4d
+Section: Tweaks
+Description: Quickly translate any text
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Installed-Size: 976
+Name: Translomatic
+
 Package: com.ziad.jkefree
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm
