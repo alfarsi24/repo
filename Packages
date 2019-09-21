@@ -153,6 +153,23 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.libfoxfortutils
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm.deb
+Size: 286020
+MD5sum: f7405ca06c6e88aab0b7e35fc931055f
+SHA1: 0551178f4ec55cb9c967e1007599cb7be3f3a9b1
+SHA256: 6bd42fb02da3fc280b81c3fc595cb235ee7cc9a5aba5cea10d2d6943deac51d5
+Section: System
+Description: Basic utilities for Foxfort tweaks
+Author: FoxfortMobile
+Installed-Size: 840
+Name: libfoxfortutils
+Tag: role::developer
+
 Package: com.ziad.translomatic
 Version: 1.2.10
 Architecture: iphoneos-arm
