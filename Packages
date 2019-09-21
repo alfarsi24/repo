@@ -29,6 +29,20 @@ Section: PUBG Hack.
 Author: ahmadmokaddam
 Name: Pubg Hack 0.14.0
 
+Package: com.apple.safari.pubg
+Version: 0.13.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.apple.safari.pubg_0.13.0_iphoneos-arm.deb
+Size: 1085382
+MD5sum: fbed37fe8065d9345be374c520655d97
+SHA1: 8bd90e2dc4777a7ad382a11f8ba77ee2094cca9a
+SHA256: 554bfb82304fe5af9df6049d71fffb8063c2ed2bf9ce1bb3328f2147361465f5
+Section: Tweaks
+Author: MaskMan
+Installed-Size: 2340
+Name: Pubg_Premium
+
 Package: com.arcticsn0w.basictweak
 Version: 0.1~alpha0-1
 Architecture: iphoneos-arm
