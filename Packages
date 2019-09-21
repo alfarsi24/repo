@@ -78,6 +78,24 @@ Installed-Size: 448
 Name: NeonBoard
 Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
 
+Package: com.fidele007.emojikey
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: ziad<mmnnm1937@hotmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.fidele007.emojikey_1.4_iphoneos-arm (1).deb
+Size: 56828
+MD5sum: dc9f4db556453be1dccb641c67a32753
+SHA1: 7d146560e2c8cbf44da2e6bb69fa9b5b43439ad1
+SHA256: 02b4561a98c40c265228f808d873e714be14e354aad858938d10e7aa76cc79cd
+Section: Tweaks
+Author: fidele007 <kforcefidele@yahoo.com>
+Icon: file:///Library/PreferenceBundles/EmojiKeyPref.bundle/EmojiKeyPref@2x.png
+Installed-Size: 457
+Name: EmojiKey
+Priority: optional
+dev: fidele007
+
 Package: com.fidele007.khmersmarterkeyboard
 Version: 1.5.4
 Architecture: iphoneos-arm
@@ -126,21 +144,6 @@ Description: Toggle for Caller ID.
 Author: PoomSmart
 Installed-Size: 1764
 Name: Caller ID Flipswitch
-
-Package: com.ziad.pubgmobilenoblocking5
-Version: 1.0~full-2
-Architecture: iphoneos-arm
-Maintainer: ZIAD
-Depends: mobilesubstrate
-Filename: ./debs/com.ziad.pubgmobilenoblocking5_1.0-full-2_iphoneos-arm (1).deb
-Size: 25500
-MD5sum: 7ad6957cddae8c6e3be24b9f964262b6
-SHA1: 54673dff1b8478b242b93666afda954e36b209f4
-SHA256: 6e0191bb2db8abc779af0ca7208b569bb1793d2075b8cc3068f8ae59ac1a584a
-Section: Tweaks
-Description: PUBG HACK SLIDER OR MORE ONLYv1.0~full-2 Enjoy iOS Jailbreak For PUBG!
-Author: ZIAD
-Name: PUBG HACK SLIDER ):
 
 Package: net.limneos.fixactivatorplaypause
 Version: 0.0.1-4
