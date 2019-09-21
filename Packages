@@ -15,6 +15,23 @@ Installed-Size: 140
 Name: CraShit
 https: //repo.nullpixel.uk/depiction/co.nullpixel.crashit
 
+Package: com.ziad.snapper2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: xRepo  <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/co.xrepo.iosksa.snapper2_2.deb
+Size: 404094
+MD5sum: 28f0c1d9c67c177ea7b6436f94ec042e
+SHA1: 377c96c2b5fd4a7d591b0b3ab0fbc88fbd9fc720
+SHA256: 750f563fefc7af48c11317decb74a884fe6c049fdbcc15d02ca2f75dc0d20107
+Section: I0S12__
+Description: تصوير جزء من الشاشة وتنقل فيه اي مكان
+Author: Jonathan Winger-lang
+Installed-Size: 1464
+Name: Snapper 2
+
 Package: com.arcticsn0w.basictweak
 Version: 0.1~alpha0-1
 Architecture: iphoneos-arm
