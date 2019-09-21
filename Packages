@@ -193,13 +193,13 @@ Version: 1.2.10
 Architecture: iphoneos-arm
 Maintainer: FoxfortMobile
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.rpetrich.rocketbootstrap (>= 1.0.3)
-Filename: ./debs/com.ziad.translomatic_1.2.10_iphoneos-arm.deb
-Size: 240380
-MD5sum: add659f8d10c3d0dc42d912299707990
-SHA1: 7c2115379fbd1c59eea95e2d70adafed76fdcf7d
-SHA256: 13aaf21020885d5e971bec27ac788b9eb186eda8af69b9465132ae2b699e3d4d
+Filename: ./debs/com.ziad.translomatic_1.2.10_iphoneos-arm (1).deb
+Size: 240404
+MD5sum: 1cc66319f839f86726b021cf056d2c98
+SHA1: 7e242d3299cb19bfa687aad59d6e9ac38013f82f
+SHA256: 0e16249345a6792b64377870a9983508d0c105716b1fbbe83bba8d4fe409b196
 Section: Tweaks
-Description: Quickly translate any text
+Description: وضع الليلي للجهاز
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
