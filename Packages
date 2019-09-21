@@ -152,6 +152,22 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.jkefree
+Version: 0.0.1-10+debug
+Architecture: iphoneos-arm
+Maintainer: xRepo <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/jake.com.jkefree_0.0.deb
+Size: 8918
+MD5sum: 93662a8ab3759511b8b77fc4649f14b7
+SHA1: 1aaf548d58816b6bac457c0a8e1ce7967fe2101d
+SHA256: e3423d80d48cab3a7bb1c942225eed41066312beec75f7bc3412e90285f39f7d
+Section: for jake
+Author: jake
+Installed-Size: 112
+Name: JKFree
+Source: Open All Features some Apps
+
 Package: net.limneos.fixactivatorplaypause
 Version: 0.0.1-4
 Architecture: iphoneos-arm
