@@ -1,20 +1,3 @@
-Package: co.nullpixel.CraShit
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Jamie Bishop <tweaks@nullpixel.uk>
-Filename: ./debs/co.nullpixel.CraShit_1.1_iphoneos-arm.deb
-Size: 8236
-MD5sum: 3c1a252673b68f97666c79ad80999246
-SHA1: 168d072dba9b58b7d73176080e9b35e2b30d22ed
-SHA256: 1b70e6c1cc04f78312ff9a73331e1721a78ffac7905d53667a2692d9007f001f
-Section: Utilities
-Description: Respring your phone easily!
-Author: Jamie Bishop <tweaks@nullpixel.uk>
-Homepage: https://nullpixel.uk
-Installed-Size: 140
-Name: CraShit
-https: //repo.nullpixel.uk/depiction/co.nullpixel.crashit
-
 Package: com.ziad.snapper2
 Version: 2.1
 Architecture: iphoneos-arm
@@ -31,22 +14,6 @@ Description: تصوير جزء من الشاشة وتنقل فيه اي مكان
 Author: Jonathan Winger-lang
 Installed-Size: 1464
 Name: Snapper 2
-
-Package: com.arcticsn0w.basictweak
-Version: 0.1~alpha0-1
-Architecture: iphoneos-arm
-Maintainer: Abraham Levine
-Depends: mobilesubstrate
-Filename: ./debs/com.arcticsn0w.basictweak_0.1-alpha0-1_iphoneos-arm.deb
-Size: 6126
-MD5sum: 9bc706d627065d472aee4c111e8a5332
-SHA1: 64ebbac1a8f27dda1e1b2212fd4060903ce5d44a
-SHA256: 1729cff02c4618dec5cebadba8b6e5129838d13b2cdd7cd13701fe3c6428d727
-Section: Tweaks
-Description: changes slider text because why not
-Author: Abraham Levine
-Installed-Size: 112
-Name: BasicTweak
 
 Package: com.artikus.neonboard
 Version: 2.0.0
@@ -204,6 +171,23 @@ Author: FoxfortMobile
 Installed-Size: 840
 Name: libfoxfortutils
 Tag: role::developer
+
+Package: com.ziad.snapper2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2
+Filename: ./debs/com.ziad.snapper2_2.2.1_iphoneos-arm.deb
+Size: 404808
+MD5sum: f560a0331ff1183c06fa7b04ea458a1a
+SHA1: b0a54574e93f9fe0a982bae6da7902f560fd8511
+SHA256: 01a465c58f730a19b484f3631c0efaa757129115e01b60b455e24fc5e3525f37
+Section: Tweaks
+Description: تصوير جزء من الشاشة والتنقل به اي مكان
+Author: Jonathan Winger-lang <mmnnm1937@hotmail.com>
+Installed-Size: 1464
+Name: Snapper 2 R
 
 Package: com.ziad.translomatic
 Version: 1.2.10
