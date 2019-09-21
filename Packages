@@ -135,6 +135,24 @@ Name: EmojiKey
 Priority: optional
 dev: fidele007
 
+Package: com.ziad.foxforttools
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack
+Filename: ./debs/com.ziad.foxforttools_1.0.7_iphoneos-arm (1).deb
+Size: 233022
+MD5sum: d4336e77897d3478908267aa6b99fa42
+SHA1: ea4ab6c06ddd2590fd8aace62b08e0e98ecf3107
+SHA256: 2443b3a8d81c9ebb93e399f6541f07581420702becc6f5723bc70d2cdadcadc1
+Section: System
+Description: Helper tools for Foxfort tweaks
+Author: FoxfortMobile
+Installed-Size: 640
+Name: FoxFort Tools
+Tag: role::developer
+
 Package: com.ziad.icleanerpro
 Version: 7.7.5
 Architecture: iphoneos-arm
