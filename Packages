@@ -121,12 +121,13 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: ziad<mmnnm1937@hotmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.ziad.emojikey_1.4_iphoneos-arm.deb
-Size: 56826
-MD5sum: 228ce524855084aeed70df928691ffd5
-SHA1: 835085d3136feef2d837e77b6f4e8b3f03aa8043
-SHA256: 9a313b88cd99463ac133493eab07e2b444ea73be3a0f5d779c62f7acd9323dc3
+Filename: ./debs/com.ziad.emojikey_1.4_iphoneos-arm (1).deb
+Size: 56898
+MD5sum: 74e5e0aa36d2275cbdba9bacef30f787
+SHA1: b7a5f6b10e11cf6a6e021195585a97676eea009c
+SHA256: 7846ba3f1dff766e082c42a4f115b6ed2e70755c350b15cd5e84812ed88e7ee1
 Section: Tweaks
+Description: اضافة زر في الكيبورد للفيسات
 Author: fidele007 <kforcefidele@yahoo.com>
 Icon: file:///Library/PreferenceBundles/EmojiKeyPref.bundle/EmojiKeyPref@2x.png
 Installed-Size: 457
