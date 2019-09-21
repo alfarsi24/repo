@@ -121,7 +121,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: ziad<mmnnm1937@hotmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.ziad.emojikey_1.4_iphoneos-arm (1).deb
+Filename: ./debs/com.ziad.emojikey_1.4_iphoneos-arm.deb
 Size: 56898
 MD5sum: 74e5e0aa36d2275cbdba9bacef30f787
 SHA1: b7a5f6b10e11cf6a6e021195585a97676eea009c
@@ -158,12 +158,48 @@ Version: 0.0.1-10+debug
 Architecture: iphoneos-arm
 Maintainer: xRepo <mmnnm1937@hotmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/jake.com.jkefree_0.0.deb
-Size: 8918
-MD5sum: 93662a8ab3759511b8b77fc4649f14b7
-SHA1: 1aaf548d58816b6bac457c0a8e1ce7967fe2101d
-SHA256: e3423d80d48cab3a7bb1c942225eed41066312beec75f7bc3412e90285f39f7d
+Filename: ./debs/jake.com.jkefree_0.0 .deb
+Size: 9328
+MD5sum: f207733195fa5359b291145b99cc8345
+SHA1: df36e3c649c6ebf44d384ac3f8fd120605805d19
+SHA256: 9c1d72b1be6658e2d62e3663bde60a388aaf166a137bce7a6070e0704ebb15c0
 Section: for jake
+Description: المميزات الكاملة والمدفوعة لبعض التطبيقات مذكورة ف الوصف
+ 
+ 
+ 
+ 
+ فتح المميزات الكاملة لبعض التطبيقات 
+ مجرد ما تحملها من الابستور راح تحمل معك بكامل المميزات 
+ هي 
+  :
+ InShot
+ Wallpaper tree
+ OPixles
+ Logo Shop
+ Video Crop
+ Picsart
+ Font Cndy
+ Cute Cut
+ Betternet
+ Hotspot Shield
+ Photofox
+ Busuu
+ DU Recorder
+ Calm
+ Wallpaper for iPhone 
+ VintageLab
+ Clarity
+ 90s
+ Translator
+ تعلم الانجليزية
+ Avatar Keyboard
+ Darkroom
+ CPU-x
+ Fitness & Bodybuilding Pro
+ شعلة
+ Fused
+ .... جاري اضافة المزيد
 Author: jake
 Installed-Size: 112
 Name: JKFree
