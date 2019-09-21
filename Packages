@@ -134,6 +134,24 @@ Name: EmojiKey
 Priority: optional
 dev: fidele007
 
+Package: com.ziad.icleanerpro
+Version: 7.7.5
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.ziad.icleanerpro_7.7.5_iphoneos-arm.deb
+Size: 9921526
+MD5sum: a4cdc9ae30e02c0ebfcff64b87bd7bb6
+SHA1: 403322f2e5f8c8ad4e97b5f34df6404b5c2ca7d6
+SHA256: abb325ae47e850d1aad3486adb324df8bb4943514d56facb3963613fb76a1860
+Section: Utilities
+Description: Утилита iCleanerPro аналог CCleaner для PC
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
 Package: net.limneos.fixactivatorplaypause
 Version: 0.0.1-4
 Architecture: iphoneos-arm
