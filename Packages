@@ -50,6 +50,23 @@ Installed-Size: 448
 Name: NeonBoard
 Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
 
+Package: com.fidele007.khmersmarterkeyboard
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.fidele007.khmersmarterkeyboard_1.5.4_iphoneos-arm.deb
+Size: 101820
+MD5sum: 8707480658698461e01636404618099a
+SHA1: 6ca7b648de97b3e48528a200c5eb31e0b6644b3b
+SHA256: 0d184e373bcfbe6648cefdca1ecf6154dfadb55b54151ce41b0c025b5166a3e6
+Section: Tweaks
+Description: Various improvements on Khmer Smart Keyboard.
+Author: fidele007 <kforcefidele@yahoo.com>
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
+Installed-Size: 480
+Name: Khmer Smarter Keyboard
+
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1-6+debug
 Architecture: iphoneos-arm
