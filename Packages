@@ -99,6 +99,23 @@ Author: PoomSmart
 Installed-Size: 1764
 Name: Caller ID Flipswitch
 
+Package: com.ziad.cconandoff
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc
+Filename: ./debs/com.ps.cconandoff_0.0.deb
+Size: 3650
+MD5sum: 386661bdfeaf159ebcd728d081f40fa0
+SHA1: 62b6cb23f8663d06ca064dd21fd2085ceeccd491
+SHA256: 168e8c04ecee1de20c132faaf3067c88f54a9fde804cb61a63c228cf0fc3f99e
+Section: Supports IOS12.x
+Description: إغلاق الواي فاي والبلوتوث من مركز التحكم بشكل كامل دون الحاجة للرجوع إلى الإعدادات لإغلاقهما من هناك.
+Author: PoomSmart
+Installed-Size: 72
+Name: CC On & Off
+
 Package: com.ziad.emojikey
 Version: 1.4
 Architecture: iphoneos-arm
