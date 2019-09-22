@@ -100,6 +100,23 @@ Author: PoomSmart
 Installed-Size: 72
 Name: CC On & Off
 
+Package: com.ziad.axon
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/com.ziad.axon_0.1.9_iphoneos-arm.deb
+Size: 168680
+MD5sum: d72a8189c925fcb389b4e0406808a526
+SHA1: fc779621cb0651b49792a7b90b0ccf185ec50819
+SHA256: 70674db40d08c37c5a06d4c34dca4efe61a57dbf7209db8940260daf4a3df609
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta
+Installed-Size: 508
+Name: Axon
+
 Package: com.ziad.betterccxi
 Version: 1.4.8
 Architecture: iphoneos-arm
