@@ -132,6 +132,21 @@ Description: تغيير شكل مركز الاشعارات الى اشكال  م
 Author: ATWiiks
 Name: BetterCCXI
 
+Package: com.ziad.cracktool4
+Version: 4.0~beta7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.ziad.cracktool4_4.0-beta7_iphoneos-arm.deb
+Size: 136120
+MD5sum: 863f7ad061dfb97b5495447463f8246b
+SHA1: 8c9ff62214e8d8741a6711372502ee24603ad1b3
+SHA256: c9b893007cb9397dcf2def40f50b521334af960d62613441478b3a682cddb908
+Section: Utilities
+Description: القرص الكراك في نقرة واحدة
+Author: julioverne
+Name: CrackTool4 (iOS 12)
+
 Package: com.ziad.emojikey
 Version: 1.4
 Architecture: iphoneos-arm
