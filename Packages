@@ -100,6 +100,21 @@ Author: PoomSmart
 Installed-Size: 72
 Name: CC On & Off
 
+Package: com.ziad.betterccxi
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ziad.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 61586
+MD5sum: 9d93121574bfa9791ee151a88421c62b
+SHA1: 70ee4d30b4e9c2c2a49a0adc2b6fb6f11e932ef5
+SHA256: 91cc3b1a245b25722a247264ba99b6190cf2045dfbabbe5a159e069c9883ad3c
+Section: iOS12
+Description: تغيير شكل مركز الاشعارات الى اشكال  متعددة يعمل على 11.12 تم التعريب بواسطتي
+Author: ATWiiks
+Name: BetterCCXI
+
 Package: com.ziad.emojikey
 Version: 1.4
 Architecture: iphoneos-arm
