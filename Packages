@@ -190,19 +190,18 @@ Name: iCleaner Pro
 Package: com.ziad.libfoxfortutils
 Version: 1.0.9
 Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
+Maintainer: Ziad
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm.deb
-Size: 286020
-MD5sum: f7405ca06c6e88aab0b7e35fc931055f
-SHA1: 0551178f4ec55cb9c967e1007599cb7be3f3a9b1
-SHA256: 6bd42fb02da3fc280b81c3fc595cb235ee7cc9a5aba5cea10d2d6943deac51d5
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm (1).deb
+Size: 286002
+MD5sum: 63b57209b66e9a4797a91bd201a163c0
+SHA1: fbbc8b8e7a5d3903b45ddda2f6a2c7760c06daef
+SHA256: ef77984d77ea292d450e010ecca599824d4ac6d20d7d38de4f7bc605c52c4a81
 Section: System
 Description: Basic utilities for Foxfort tweaks
-Author: FoxfortMobile
+Author: ziad
 Installed-Size: 840
 Name: libfoxfortutils
-Tag: role::developer
 
 Package: com.ziad.snapper2
 Version: 2.2.1
