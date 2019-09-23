@@ -237,6 +237,25 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.ikeywi3
+Version: 3.3.2
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, com.tw3pole.exkey, gsc.ipad
+Filename: ./debs/com.ziad.ikeywi3_3.3.2_iphoneos-arm (1).deb
+Size: 394250
+MD5sum: 469cc1cb3ba8b3ca765b7f13bd500a38
+SHA1: 911b1fbd55b0b2617b65d6ec2be876eeb9746036
+SHA256: 35985a4c92fec0cc93bd1a23dc1389e17b4ddd1d4c6e8611827ad00870b2d592
+Section: Tweaks
+Description: صف إضافي قابل للتخصيص للوحات المفاتيح
+Author: Hiraku <dev@hiraku.tw>
+Icon: file:///Library/PreferenceBundles/iKeywi3.bundle/Icon@2x.png
+Installed-Size: 1021
+Name: iKeywi 3 (iOS 8/9/10/11/12)
+dev: hiraku
+
 Package: com.ziad.libfoxfortutils
 Version: 1.0.9
 Architecture: iphoneos-arm
