@@ -147,6 +147,22 @@ Description: تغيير شكل مركز الاشعارات الى اشكال  م
 Author: ATWiiks
 Name: BetterCCXI
 
+Package: com.ziad.betterccxi
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: ATWiiks
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: ./debs/com.ziad.betterccxi_1.5.0_iphoneos-arm.deb
+Size: 131882
+MD5sum: 5c1922682cb28ebc935ae677d5654135
+SHA1: 28f3bb794ce5ef5a1a998780f9c05b67bd11b702
+SHA256: d3ff89050db67b12e21a16c70868d122e08b67049fa0a2892ea5297ddf70eaea
+Section: Tweaks
+Description: إضافة مميزات الى مركز التحكم جميلة جدا تعمل على 11/12
+Author: ziad
+Installed-Size: 640
+Name: BetterCCXI
+
 Package: com.ziad.callbarxs
 Version: 2.1-64
 Architecture: iphoneos-arm
