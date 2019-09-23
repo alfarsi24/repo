@@ -153,6 +153,25 @@ Architecture: iphoneos-arm
 Maintainer: Ziad <mmnnm1937@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.ziad.callbarxs_2.1-64_iphoneos-arm (1).deb
+Size: 217016
+MD5sum: 91696fc56cb5ac3474bf533dddfdf869
+SHA1: 8f66000b8c15d0f0671ede40c76d3fc834a0caaf
+SHA256: 85aab0dd95113ebf6386fe2bd858a5059cb330f04dfd3b53a341478a93a33ac5
+Section: Tweaks
+Description: لا تدع المكالمات الواردة تقاطعك!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Installed-Size: 766
+Name: CallBar XS (iOS 12)
+dev: limneos
+
+Package: com.ziad.callbarxs
+Version: 2.1-64
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: ./debs/com.ziad.callbarxs_2.1-64_iphoneos-arm.deb
 Size: 217042
 MD5sum: 7f5c30ade0f9c35b74c730c1c415224a
