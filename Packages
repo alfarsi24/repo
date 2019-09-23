@@ -132,6 +132,26 @@ Description: تغيير شكل مركز الاشعارات الى اشكال  م
 Author: ATWiiks
 Name: BetterCCXI
 
+Package: com.ziad.callbarxs
+Version: 2.1-64
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./debs/com.ziad.callbarxs_2.1-64_iphoneos-arm.deb
+Size: 217042
+MD5sum: 7f5c30ade0f9c35b74c730c1c415224a
+SHA1: 6b276032e50b8ebc4d63ded056f8446206c937af
+SHA256: c88e73555d7df7965a83ccfad8623c6f4aa7c20ea56b7fa6efaac13dd75456cf
+Section: Tweaks
+Description: لا تدع المكالمات الواردة تقاطعك!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Installed-Size: 766
+Name: CallBar XS (iOS 12)
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: limneos
+
 Package: com.ziad.cracktool4
 Version: 4.0~beta7
 Architecture: iphoneos-arm
