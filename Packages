@@ -115,6 +115,22 @@ Author: PoomSmart
 Installed-Size: 72
 Name: CC On & Off
 
+Package: com.ziad.appshortcut
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.pulandres.appshortcut_1.0.deb
+Size: 64918
+MD5sum: e089978e1d64cd6347448594caaf3f70
+SHA1: 3a390a13e194e04baf12b5a89698ccf9f2b2b138
+SHA256: a4ac1b59676f66c8be1a44f6c542eec351ece7b7794de6564c4b71d96cf20c66
+Section: Tweaks
+Description: الوصول بسرعة إلى التطبيقات المفضلة لديك في اي مكان
+Author: db89
+Installed-Size: 456
+Name: AppShortcut Z
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
