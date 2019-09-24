@@ -131,6 +131,23 @@ Author: db89
 Installed-Size: 456
 Name: AppShortcut Z
 
+Package: com.ziad.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders
+Filename: ./debs/com.pulandres.boxy3_3.6.deb
+Size: 2798948
+MD5sum: ad9c06425c3626070fa518d9a7ca4887
+SHA1: 7d2c9db9e23a0385d2aa2c3b732f1b0cf254f9aa
+SHA256: bbe2538d710c1e6ce5a9be97c0f305d6e2bc74e4d72ae3e9c3e798a1e380e363
+Section: Tweaks
+Description: تعديل على التطبيقات وتحكم بها بشكل كامل
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 3528
+Name: Boxy 3 (iOS 11 - 12) Z
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
