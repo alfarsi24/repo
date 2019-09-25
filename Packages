@@ -148,6 +148,22 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Installed-Size: 3528
 Name: Boxy 3 (iOS 11 - 12) Z
 
+Package: com.ziad.easyaccess
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, com.kaneb.kbapplist, com.kaneb.kbpreferences, libactivator
+Filename: ./debs/com.pulandres.easyaccess_0.1.deb
+Size: 209526
+MD5sum: 9648b0ba3296d7ea70edf952ebc73dab
+SHA1: b4562c9e77806367d40bc7287e1a090d230fbf50
+SHA256: 4f6e34192ea9afaa47985c75ace73b25d7b43d7fe14d542af750f96d358d2741
+Section: Tweaks
+Description: اظهار شريط يمكنك من خلالة اظهار التطبيقات بشكل اسرع
+Author: Kane Buckthorpe
+Installed-Size: 772
+Name: EasyAccess Z
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
