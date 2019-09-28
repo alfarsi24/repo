@@ -182,6 +182,22 @@ Author: Kane Buckthorpe
 Installed-Size: 772
 Name: EasyAccess Z
 
+Package: com.ziad.smartbattery
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin
+Filename: ./debs/com.pulandres.smartbattery_1.2.deb
+Size: 215776
+MD5sum: e933b4a8013b22e00cc7ee597a2b6836
+SHA1: 7c4243eba1227f8baa845b5d680937beb811890c
+SHA256: 124e70fcd10c567d58832669dbcb588ee11f3dd3d3b3af98c92e6548759a88e9
+Section: Tweaks
+Description: حفظ البطارية ، وتحسين LPM
+Author: elias
+Installed-Size: 840
+Name: SmartBattery Z
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
