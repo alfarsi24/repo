@@ -30,6 +30,22 @@ Author: ziad <>
 Name: MediaBox HD
 Source: The Best Entertainment App For You And Your Family.
 
+Package: com.ziad.shortcutenabler
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.shortcutenabler_1.0.deb
+Size: 20182
+MD5sum: 163dd631b5275549cc603e0d743931b4
+SHA1: e0549eff17cdacf1fc8572870b96f73a81c9c122
+SHA256: c1650bf30795933972fad74fc72d0747daecdf61eaf63e41887ef2c8621d872c
+Section: Supports IOS12.x
+Description: جلب أزرار الفلاش / كاميرا المتوفرة في شاشة قفل  الايفون اكس على جميع الأجهزة.
+Author: Ziad
+Installed-Size: 244
+Name: ShortcutEnabler
+
 Package: com.artikus.neonboard
 Version: 2.0.0
 Architecture: iphoneos-arm
