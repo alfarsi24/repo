@@ -30,6 +30,22 @@ Author: ziad <>
 Name: MediaBox HD
 Source: The Best Entertainment App For You And Your Family.
 
+Package: com.ahmedsalahnadom.dockclear
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
+Filename: ./debs/com.ahmedsalahnadom.dockclear_0.deb
+Size: 24718
+MD5sum: 55552e7b248580e8f4321e10f6ef13dc
+SHA1: b0121e47009acc333fdc24fe6063039788c9d8af
+SHA256: cbdd4edb89cc1dee383127b5a8010512e630e663f751dfdcab6101d49433019c
+Section: Tweaks
+Description: حذف خلفية الدوك السفلي للايفون
+Author: Ziad
+Installed-Size: 280
+Name: Dock Clear
+
 Package: com.ziad.shortcutenabler
 Version: 1.0.0-1
 Architecture: iphoneos-arm
