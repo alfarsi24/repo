@@ -81,24 +81,6 @@ Installed-Size: 448
 Name: NeonBoard
 Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
 
-Package: com.droomone.tabblocker
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: ziad <mmnnm1937@hotmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./debs/com.droomone.tabblocker_1.3.1_iphoneos-arm (1).deb
-Size: 62592
-MD5sum: 47e6727a2912361ad9dc1529597e74c1
-SHA1: a78db571b86f9698775687f049179805a60741fa
-SHA256: 4c1d4c49cd44645c378db0f25ba649ae27ebee1f772060179849db5d844072f6
-Section: Tweaks
-Description: حظر علامات تبويب الإعلان الجديدة والمزيد في سفاري
-Author: Droom0ne <droom1@protonmail.com>
-Icon: file:///Library/PreferenceBundles/TabBlockerPreferenceBundle.bundle/Icon-50.png
-Installed-Size: 439
-Name: TabBlocker
-dev: droom0ne
-
 Package: com.fidele007.khmersmarterkeyboard
 Version: 1.5.4
 Architecture: iphoneos-arm
@@ -164,6 +146,21 @@ Description: إغلاق الواي فاي والبلوتوث من مركز ال�
 Author: PoomSmart
 Installed-Size: 72
 Name: CC On & Off
+
+Package: com.ziad.adblockplus
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Filename: ./debs/com.pulandres.adblockplus_1.1.deb
+Size: 12636
+MD5sum: d599de5b8ee97916b74bfa4a00382682
+SHA1: b3be4fabd2981dfa5e551acdf4383c8c938861cd
+SHA256: 779578dc6275b0bbeced3e80158189bc75a4ba468dad65cc2afc46c910142d87
+Section: Tweaks
+Description: Adblock for ++ Tweaks
+Author: Ziad
+Installed-Size: 264
+Name: AdBlock ++
 
 Package: com.ziad.appshortcut
 Version: 1.0.4
