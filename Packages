@@ -178,6 +178,24 @@ Author: db89
 Installed-Size: 456
 Name: AppShortcut Z
 
+Package: com.ziad.audiorecorderxs
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/com.pulandres.audiorecorderxs_3.deb
+Size: 3707148
+MD5sum: f08cbf2279285da6194731638c0c6fba
+SHA1: 8fa69d45111edc44cdf3cc049d609b4da2ffd1b8
+SHA256: 041b066b3225589ac0ac0b2bbb3b141b3a0f2e178cb5f7464ba49cbe183e4b7a
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Ziad <mmnnmm1937@hotmail.com>
+Installed-Size: 7352
+Name: AudioRecorder XS Cracked Z
+
 Package: com.ziad.boxy3
 Version: 3.6.2
 Architecture: iphoneos-arm
