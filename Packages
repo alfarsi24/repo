@@ -265,6 +265,22 @@ Author: Kane Buckthorpe
 Installed-Size: 772
 Name: EasyAccess Z
 
+Package: com.ziad.libiarrays
+Version: 1.0.11-beta-6
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Conflicts: com.ziad.libiarrays1, com.ziad.libiarrays
+Filename: ./debs/com.pulandres.libiarrays_1.0.deb
+Size: 288778
+MD5sum: acfea2ae842777f15c76a2316baa51c0
+SHA1: 56aacd72be245821cdbfb8767c56f3ceeeba4b2a
+SHA256: 1b672264885af8fc7b6ef3aa75e09125d7159e1c99e94273d698242ef9e984b1
+Section: Development
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Author: Ziad <mmnnm1937@hotmail.com>
+Name: libiarrays Cracked Z
+Pre-Depends: firmware (>=7.0)
+
 Package: com.ziad.smartbattery
 Version: 1.2.1
 Architecture: iphoneos-arm
