@@ -491,25 +491,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
-Package: com.ziad.ikeywi3
-Version: 3.3.2
-Architecture: iphoneos-arm
-Maintainer: Ziad <mmnnm1937@hotmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, com.tw3pole.exkey, gsc.ipad
-Filename: ./debs/com.ziad.ikeywi3_3.3.2_iphoneos-arm (1).deb
-Size: 394250
-MD5sum: 469cc1cb3ba8b3ca765b7f13bd500a38
-SHA1: 911b1fbd55b0b2617b65d6ec2be876eeb9746036
-SHA256: 35985a4c92fec0cc93bd1a23dc1389e17b4ddd1d4c6e8611827ad00870b2d592
-Section: Tweaks
-Description: صف إضافي قابل للتخصيص للوحات المفاتيح
-Author: Hiraku <dev@hiraku.tw>
-Icon: file:///Library/PreferenceBundles/iKeywi3.bundle/Icon@2x.png
-Installed-Size: 1021
-Name: iKeywi 3 (iOS 8/9/10/11/12)
-dev: hiraku
-
 Package: com.ziad.libfoxfortutils
 Version: 1.0.9
 Architecture: iphoneos-arm
@@ -666,6 +647,26 @@ Author: jake
 Installed-Size: 112
 Name: JKFree
 Source: Open All Features some Apps
+
+Package: me.ziad.ikeywi3p
+Version: 3.4.2
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: preferenceloader, mobilesubstrate, firmware (>= 8.0), applist
+Conflicts: org.thebigboss.ikeywi, tw.hiraku.ikeywi2, tw.hiraku.ikeywi3, com.tw3pole.exkey, gsc.ipad
+Filename: ./debs/me.a1iraqi.ikeywi3p_3.4.deb
+Size: 399192
+MD5sum: 010f59f4dc144d2d83879e1eac182cc8
+SHA1: 715654ff1d478a6ed4a6a636093361965c326672
+SHA256: 2f3a182540a688bf6d05250cd673599f17b565c84e778ce29bc03d880434df5c
+Section: Tweaks
+Author: Ziad
+Icon: https://repo.packix.com/api/Packages/5cbff7868f5bc4001cd6e711/icon/download?size=medium&hash=2
+Installed-Size: 1064
+Name: iKeywi 3 Z
+Paid: Free
+Priority: optional
+Source: Customize your 5-Row keyboard
 
 Package: net.limneos.fixactivatorplaypause
 Version: 0.0.1-4
