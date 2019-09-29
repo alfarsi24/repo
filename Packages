@@ -230,24 +230,24 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Installed-Size: 3528
 Name: Boxy 3 (iOS 11 - 12) Z
 
-Package: com.siad.callbarxs
+Package: com.ziad.callbarxs
 Version: 2.2-5
 Architecture: iphoneos-arm
 Maintainer: Ziad
 Depends: mobilesubstrate, preferenceloader
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.ziad.limneosos, ru.rejail.limneosos
 Replaces: net.limneos.callbarxs
-Filename: ./debs/com.pulandres.callbarxs_2 (1).deb
-Size: 414174
-MD5sum: 6a07b6901ec5c40e8ca56afa7292bf00
-SHA1: 54017c6c08bc5a5ccef181a562a6e7500330bbd8
-SHA256: f7a51f17ea7e24febca59c382621459deb039b4ea25ee19919c8d2efcb3d53a9
+Filename: ./debs/com.pulandres.callbarxs_2.deb
+Size: 414166
+MD5sum: 49fe4bb64788be1bdb47ef50861da40d
+SHA1: 763e1fce6f850b9c74f9fbea200d856f5a8f6070
+SHA256: 4a644ae04eb7d011c79fdb2d8313c44209040035b0904ce0cc9d1de51fe5ff2e
 Section: Tweaks
 Description: تغيير نمط مكالماتك
 Author: Ziad <mmnnm1937@hotmail.com>
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Installed-Size: 788
-Name: CallBar XS Cracked
+Name: CallBar XS Cracked Z
 
 Package: com.ziad.easyaccess
 Version: 0.1.2
