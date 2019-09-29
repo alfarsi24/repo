@@ -196,6 +196,23 @@ Author: Ziad <mmnnmm1937@hotmail.com>
 Installed-Size: 7352
 Name: AudioRecorder XS Cracked Z
 
+Package: com.ziad.biolocker
+Version: 1.0.6-beta-2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 6), com.rpetrich.rocketbootstrap, com.ziad.libiarrays
+Conflicts: com.rpetrich.biolockdown, net.limneos.bioprotect, com.pulandress.bioprotectx, net.limneos.bioprotectx, net.limneos.bioprotectxs, com.ziad.bioprotectxs
+Filename: ./debs/com.pulandres.biolocker_1.0.deb
+Size: 1883802
+MD5sum: 4d41f7d337eb5dbe0e9f187c6beae292
+SHA1: 55ebc45a02b868cfdb291e98fdad402a038ad4af
+SHA256: c3c4624e22837568c7f789b2b0ec3f4ef64c32d7b4238702d1871f468880d530
+Section: Tweaks
+Description: Lock your apps ans switches
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 867
+Name: Bio Locker Cracked Z
+
 Package: com.ziad.boxy3
 Version: 3.6.2
 Architecture: iphoneos-arm
