@@ -262,6 +262,26 @@ Icon: https://alfarsi23.github.io/repo/CydiaIcon.png
 Installed-Size: 852
 Name: SmartBattery Z
 
+Package: com.ziad.appstoreplusplus
+Version: 0.9.7
+Architecture: iphoneos-arm
+Maintainer: ziad
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces: 
+Filename: ./debs/com.ziad.appstoreplusplus_0.9.7_iphoneos-arm.deb
+Size: 1316578
+MD5sum: cb7e1d21fecfd146a9b898b614f7dda5
+SHA1: df06377b1d7453493d6fc1cf8d415fc105d72a5c
+SHA256: cd1dcd8c72b1e9ef32478cfa2ddd37e3f4924ea72051f8934c2e44c257cc0f96
+Section: Tweaks
+Description: يتيح لك تقليل / ترقية التطبيقات في AppStore على نظام iOS 11-12.2
+Author: Ziad
+Icon: 
+Name: AppStore++
+Priority: optional
+dev: 
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
