@@ -515,14 +515,14 @@ Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: ziad <mmnnm1937@hotmail.com>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
-Filename: ./debs/com.ziad.tabblocker_1.3.1_iphoneos-arm.deb
-Size: 62574
-MD5sum: 9621d228d6fcdf24c0fe5f62ec176a9a
-SHA1: 7644160e56a2dbfd1960d5df6d97f7fa58684911
-SHA256: d56ee8139100b1c821b545dd35d57056619eb40a8153a23b3e364b2a9005766e
+Filename: ./debs/com.ziad.tabblocker_1.3.1_iphoneos-arm (1) (1).deb
+Size: 62588
+MD5sum: 222fb132c42df74009a814efa65e29d0
+SHA1: a9c100ffc6b932bad7c4f181104e883bd0a77ac7
+SHA256: bcff08066f981b833247fbafdc78b8b57d250ebebd5564dfe4e532a069094f35
 Section: Tweaks
 Description: حظر علامات تبويب الإعلان الجديدة والمزيد في سفاري
-Author: Ziad <mmnnm1937@hotmail.com>
+Author: Droom0ne <droom1@protonmail.com>
 Icon: file:///Library/PreferenceBundles/TabBlockerPreferenceBundle.bundle/Icon-50.png
 Installed-Size: 439
 Name: TabBlocker
