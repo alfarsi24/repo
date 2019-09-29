@@ -510,6 +510,24 @@ Name: Store Features Z
 compatible: :ios10, compatible::ios11, compatible::ios12
 dev: ajbbocydia
 
+Package: com.ziad.tabblocker
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.ziad.tabblocker_1.3.1_iphoneos-arm.deb
+Size: 62574
+MD5sum: 9621d228d6fcdf24c0fe5f62ec176a9a
+SHA1: 7644160e56a2dbfd1960d5df6d97f7fa58684911
+SHA256: d56ee8139100b1c821b545dd35d57056619eb40a8153a23b3e364b2a9005766e
+Section: Tweaks
+Description: حظر علامات تبويب الإعلان الجديدة والمزيد في سفاري
+Author: Ziad <mmnnm1937@hotmail.com>
+Icon: file:///Library/PreferenceBundles/TabBlockerPreferenceBundle.bundle/Icon-50.png
+Installed-Size: 439
+Name: TabBlocker
+dev: ziad
+
 Package: com.ziad.translomatic
 Version: 1.2.10
 Architecture: iphoneos-arm
