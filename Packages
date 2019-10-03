@@ -354,16 +354,16 @@ Name: Axon
 Package: com.ziad.betterccxiweather
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: ATWiiks
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.atwiiks.betterccxi
+Maintainer: Ziad
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.ziad.betterccxi
 Filename: ./debs/com.ziad.betterccxiweather_1.0.3_iphoneos-arm.deb
-Size: 25926
-MD5sum: ca680354f9c9fa22e2b43e865e7fe1be
-SHA1: c5945f73b137c7e6b11324906ac8f504cc59f1a0
-SHA256: e52444a1afbed5382d288546097099c6e4359f54531ac925d49e8c052ef9c463
+Size: 25918
+MD5sum: 559e6cc555ee82b33bcd31b79e2f6667
+SHA1: ee32fe35abeb50854430cc42cf9171a354777430
+SHA256: dabd712bbdf39a82cea28f72cbb57d404f8f87a1aeae7d156f9ae7d21ba734f8
 Section: Tweaks
 Description: وحدة الطقس ل BetterCCXI
-Author: ATWiiks
+Author: Ziad
 Installed-Size: 172
 Name: BetterCCXI (Weather Addon) Z
 
