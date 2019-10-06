@@ -573,6 +573,22 @@ Installed-Size: 439
 Name: TabBlocker
 dev: ziad
 
+Package: com.ziad.tinybanners
+Version: 0.5.3
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate,preferenceloader,applist
+Filename: ./debs/com.ziad.tinybanners_0.5.3_iphoneos-arm.deb
+Size: 128872
+MD5sum: fdb2c29a825ed2387f894afb7bb0fe97
+SHA1: 33043fe578efd9359919efa9d00bd7d34ae98946
+SHA256: 2b5f91867a5f95147ad6c9339fc0115545967fc03e50d5e7125ce318495b5c94
+Section: Tweaks
+Description: تصغير الاشعارات الى شكل صغير وانيق
+Author: Ziad
+Installed-Size: 500
+Name: TinyBanners Z
+
 Package: com.ziad.translomatic
 Version: 1.2.10
 Architecture: iphoneos-arm
