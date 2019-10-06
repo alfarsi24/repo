@@ -468,20 +468,19 @@ dev: fidele007
 Package: com.ziad.foxforttools
 Version: 1.0.7
 Architecture: iphoneos-arm
-Maintainer: FoxfortMobile
+Maintainer: Ziad
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils
 Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack
-Filename: ./debs/com.ziad.foxforttools_1.0.7_iphoneos-arm (1).deb
-Size: 233022
-MD5sum: d4336e77897d3478908267aa6b99fa42
-SHA1: ea4ab6c06ddd2590fd8aace62b08e0e98ecf3107
-SHA256: 2443b3a8d81c9ebb93e399f6541f07581420702becc6f5723bc70d2cdadcadc1
+Filename: ./debs/com.ziad.foxforttools_1.0.7_iphoneos-arm (4).deb
+Size: 233010
+MD5sum: f3a452eb7bbdc43725f6119747b8e178
+SHA1: d28a39ea81dbd587bea42082f6703f04794943db
+SHA256: 3b018e834b2f2bbd293282036bb00e79ecbcbeb1abbb26c3d4e730f5ec31308d
 Section: System
 Description: Helper tools for Foxfort tweaks
-Author: FoxfortMobile
+Author: ziad
 Installed-Size: 640
 Name: FoxFort Tools
-Tag: role::developer
 
 Package: com.ziad.icleanerpro
 Version: 7.7.5
