@@ -517,23 +517,24 @@ Installed-Size: 840
 Name: libfoxfortutils
 
 Package: com.ziad.pasithea2
-Version: 2.1.8
+Version: 2.1.9
 Architecture: iphoneos-arm
-Maintainer: Ziad <mmnnm1937@hotmail.com>
+Maintainer: ziad <mmnnm1937@hotmail.com>
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
 Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
-Replaces: com.cannathea.pasithea2
-Filename: ./debs/com.ziad.pasithea2_2.1.8_iphoneos-arm.deb
-Size: 783758
-MD5sum: bbe3ba80eb6862b8ee9f9b5844c16577
-SHA1: 10f51c4bf041c1ccc93cac2e47e08bf48cecddaa
-SHA256: dea114f695ca178469cccda85ea7df49b2267b2f9be1677718ef68f73562db73
+Replaces: com.ziad.pasithea2
+Filename: ./debs/com.ziad.pasithea2_2.1.9_iphoneos-arm.deb
+Size: 774950
+MD5sum: f57d5a606a5936b42b587d7126243f3f
+SHA1: 9ec8348798a1ae6ec424038fffdbc9c239d7dff8
+SHA256: ec8459edeab3a97f8b70a38c7c0a4cbc68758c766f2693a089de6fc6f3f13303
 Section: Tweaks
-Description: حفظ كل شي تنسخة واستخراجة بكل سهولة
-Author: Ziad <csupport@cannathea.com>
+Description: حفظ كل شي يتم نسخة واستخراجه بكل سهولة
+Author: Ziad <mmnnm1937@hotmail.com>
 Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
 Installed-Size: 2644
-Name: Pasithea 2 (iOS 10 & 11&12) Z
+Name: Pasithea 2 (iOS 10 to 12)
+dev: Cannathea
 
 Package: com.ziad.snapper2
 Version: 2.2.1
