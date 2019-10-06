@@ -506,14 +506,14 @@ Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: Ziad
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm (1).deb
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.9_iphoneos-arm (2).deb
 Size: 286002
-MD5sum: 63b57209b66e9a4797a91bd201a163c0
-SHA1: fbbc8b8e7a5d3903b45ddda2f6a2c7760c06daef
-SHA256: ef77984d77ea292d450e010ecca599824d4ac6d20d7d38de4f7bc605c52c4a81
+MD5sum: e1f300d05617b4f001806b7ab3286871
+SHA1: 60baea2afea847f9b56714730305c53c1e7707e4
+SHA256: a19af1f5fddf7e0190517c077c357eac8fe026950edbc14ae532946b487abc6e
 Section: System
 Description: Basic utilities for Foxfort tweaks
-Author: ziad
+Author: Ziad
 Installed-Size: 840
 Name: libfoxfortutils
 
