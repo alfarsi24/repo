@@ -553,6 +553,25 @@ Author: Jonathan Winger-lang <mmnnm1937@hotmail.com>
 Installed-Size: 1464
 Name: Snapper 2 R
 
+Package: com.ziad.st4.new
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: ziad
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Replaces: com.springtomize.st4
+Filename: ./debs/com.ziad.st4.new_4.0.8_iphoneos-arm.deb
+Size: 914964
+MD5sum: f9c47653dd71b8b0bd366913ad005fca
+SHA1: bfed08f4c4bcb848d44a6d0516559e8f6b352de0
+SHA256: 3794f7a849d2832d9609334109405f00d5727b2feabb3b733ee240a6cff6d90f
+Section: Tweaks
+Description: تخصيص جهازك كما لم يحدث من قبل
+Author: ziad
+Conflict: com.springtomize.st4
+Installed-Size: 3368
+Name: Springtomize4
+Provides: com.springtomize.st4.new
+
 Package: com.ziad.storefeatures
 Version: 1.2
 Architecture: iphoneos-arm
