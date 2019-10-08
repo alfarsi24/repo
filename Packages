@@ -462,6 +462,21 @@ Description: القرص الكراك في نقرة واحدة
 Author: julioverne
 Name: CrackTool4 (iOS 12)
 
+Package: com.ziad.cracktool4
+Version: 4.0~beta8
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./debs/com.ziad.cracktool4_4.0-beta8_iphoneos-arm.deb
+Size: 463324
+MD5sum: a1af4ed1204f5914d6d9cf112465643d
+SHA1: 20b3de7fcdf363709497748fb436c29db4e83c7c
+SHA256: 3898d6003795a8479efbdd3646367fba06e21794843feca4e73e0dab79396be5
+Section: Utilities
+Description: القرص الكراك في نقرة واحدة
+Author: ziad
+Name: CrackTool4 (iOS 12)
+
 Package: com.ziad.emojikey
 Version: 1.4
 Architecture: iphoneos-arm
