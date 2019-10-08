@@ -46,6 +46,22 @@ Author: Ziad
 Installed-Size: 280
 Name: Dock Clear
 
+Package: com.ziad.icamerax
+Version: 0.2-1+debug-1
+Architecture: iphoneos-arm
+Maintainer: Ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.icamerax_0.deb
+Size: 17814
+MD5sum: a864b46b004ad8b2004d5402d203c53c
+SHA1: 04edb21af05d0ec910fdb6e4ad0c3123ddc42725
+SHA256: af6d2391eed6eefde6decc6c7baead7d88944364d8163791438a20ee08bc3eba
+Section: Supports IOS12.x
+Description: مميزات عدة للكاميرا مثل إخفاء صوت الكاميرا، جلب خاصية HDR و Live ومميزات كاميرا iPhone X للأجهزة القديمة، شاشة كاملة، والكثير.
+Author: Ziad <mmnnm1937@hotmail.com>
+Installed-Size: 164
+Name: iCamerax Z
+
 Package: com.ziad.shortcutenabler
 Version: 1.0.0-1
 Architecture: iphoneos-arm
