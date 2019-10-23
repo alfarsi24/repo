@@ -62,6 +62,26 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Installed-Size: 164
 Name: iCamerax Z
 
+Package: com.ziad.pubghacklite
+Version: 0.15.0
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Depends: mobilesubstrate
+Filename: ./debs/com.arab-cydia.pubghacklite_0.15.deb
+Size: 443928
+MD5sum: 4d64541d985e9c8ab3fac1c6cc18e159
+SHA1: 7040fcbd94e420f2cbb166e4c47e77416795fd9a
+SHA256: 7429f15469feafdc8a073c22570627c7635cb53d3d9309fa56670fda7f95e512
+Section: Tweaks ( By Tweaky )
+Description: مميزات الهاك
+ - ثبات سلاح
+ - ثبات كامره
+ - عدم تناثر الرصاص
+ استمتعوو مع Tweaky
+Author: Tweaky
+Installed-Size: 860
+Name: PUBG Hack Tweaky Lite
+
 Package: com.ziad.shortcutenabler
 Version: 1.0.0-1
 Architecture: iphoneos-arm
