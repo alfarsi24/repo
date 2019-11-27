@@ -30,6 +30,21 @@ Author: ziad <>
 Name: MediaBox HD
 Source: The Best Entertainment App For You And Your Family.
 
+Package: com.ziad.slidersmall
+Version: 0.15.0
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.ahmad.slidersmall_0.15.deb
+Size: 12854
+MD5sum: bad1820539009b9ec2c5eaa6eaf98592
+SHA1: 4afb83bc35d56de371e0157a4dc414e238ae6d8e
+SHA256: 1d81a08748645d9ed14c501a375411465705504560d9b5174479d11a02331c7f
+Section: PUBG Hack.
+Author: ziad
+Installed-Size: 200
+Name: Pubg Slider Small 0.15.0
+
 Package: com.ziad.dockclear
 Version: 0.1
 Architecture: iphoneos-arm
