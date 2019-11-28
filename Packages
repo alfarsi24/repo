@@ -332,6 +332,24 @@ Author: Kane Buckthorpe
 Installed-Size: 772
 Name: EasyAccess Z
 
+Package: com.ziad.libertylite
+Version: 0.2.12b
+Architecture: iphoneos-arm
+Maintainer: Ziad alfarsi
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.pulandres.libertylite_0.2.deb
+Size: 82298
+MD5sum: a40fec27d8526734e49746d5d709c0ff
+SHA1: 2d57e62b5ae849c14310df21e5c58876629c6c11
+SHA256: 94186f338c9cd773705e3ff7b3fa3ca53b98101a5328758bbbd35e5f4ce42a4e
+Section: Tweaks
+Description: 🛡اخفاء الجلبريك عن التطبيقات
+Author: ziad alfarsi
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Installed-Size: 616
+Name: Liberty Lite(Beta)
+
 Package: com.ziad.libiarrays
 Version: 1.0.11-beta-6
 Architecture: iphoneos-arm
