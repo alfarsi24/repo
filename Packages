@@ -366,6 +366,25 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Name: libiarrays Cracked Z
 Pre-Depends: firmware (>=7.0)
 
+Package: com.ziad.pasithea2
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: ziad alfarsi
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), net.angelxwind.karenlocalizer, firmware (>= 11.0) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea2
+Filename: ./debs/com.pulandres.pasithea2_2.2.deb
+Size: 782126
+MD5sum: 8a7df2e194a0915518d4dbf8232a7af6
+SHA1: 40e78d5a3c723ed1c55675228330d9de3808d11f
+SHA256: 635e56cf28e874196fcc5b7d89d06b57ed5658a303d6eafb4171fb83ce552d82
+Section: Tweaks
+Description: حفظ كل مايتم نسخه
+Author: ziad <mmnnm1937@hotmail.com>
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Installed-Size: 2644
+Name: Pasithea 2 (iOS 10 to 13) Cracked
+
 Package: com.ziad.smartbattery
 Version: 1.2.1
 Architecture: iphoneos-arm
