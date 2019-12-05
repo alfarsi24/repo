@@ -654,6 +654,22 @@ Installed-Size: 2644
 Name: Pasithea 2 (iOS 10 to 12)
 dev: Cannathea
 
+Package: com.ziad.pubghack
+Version: 0.15.5
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate
+Filename: ./debs/com.ziad.pubghack_0.15.5_iphoneos-arm.deb
+Size: 363768
+MD5sum: 7f0c015b3513fe2e0065b73bf1422d46
+SHA1: 782e6da7d7a5e019cf3c2067aba5bc8ecdf3d656
+SHA256: 05d64dc994c307fa380934db723e7fe90914f9fad1faec3d67eeede9a0f03d28
+Section: Tweaks
+Description: PUBG Mod Menu by X204!
+Author: Ziad
+Installed-Size: 644
+Name: PUBG Mod Menu
+
 Package: com.ziad.snapper2
 Version: 2.2.1
 Architecture: iphoneos-arm
