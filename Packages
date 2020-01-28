@@ -366,6 +366,23 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Name: libiarrays Cracked Z
 Pre-Depends: firmware (>=7.0)
 
+Package: com.ziad.onlinenotify
+Version: 3.0.6
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.pulandres.watools  (>= 2.1.9), sedfix  (>= 7.0)
+Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb, com.pulandres.whatshack, ru.rejail.whatshack, com.hackyouriphone.whatshack
+Filename: ./debs/com.pulandres.onlinenotify_3.0.deb
+Size: 677510
+MD5sum: 85c1707407c0e10ad7be521674b09ecf
+SHA1: 5294feaddd62214faa52733afaa012d57a17b773
+SHA256: aeedcb2ad1e2dd3c063a8318b7c49ae6395072c9360f54a29554767741c53ac8
+Section: Tweaks
+Description: Track you friends on WhatsApp Messenger!
+Author: Fouad Raheb <mmnnm1937@hotmailil.com>
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: OnlineNotify Cracked
+
 Package: com.ziad.pasithea2
 Version: 2.2.1
 Architecture: iphoneos-arm
