@@ -792,6 +792,20 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
 Name: Translomatic
 
+Package: com.yourepo.storeali.beta-hostv2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ali <3llawi416@gmail.com>
+Filename: ./debs/Get.Host-5.deb
+Size: 2971600
+MD5sum: e6b73552ec7c689ccc369e8412da7ca6
+SHA1: 0fbff58bddf4a1f77b93a6934a89e272815e640a
+SHA256: f71a5bedbcf0a131e056938c48935c1e1d85beab931be8a23a287591fa95e940
+Section: Security
+Description: Host VIP and Liberty lite-Antiban By BossAli VIP
+Author: storeali-sa <3llawi416@gmail.com>
+Name: Beta-HostV2
+
 Package: com.ziad.jkefree
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm
