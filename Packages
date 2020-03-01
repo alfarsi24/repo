@@ -616,6 +616,25 @@ Name: EmojiKey
 Priority: optional
 dev: fidele007
 
+Package: com.ziad.fastforwardtime
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./debs/com.ziad.fastforwardtime_2.0.2_iphoneos-arm.deb
+Size: 34800
+MD5sum: e3efba32770fc795f21db0541ba95ce5
+SHA1: e413703fbb4f2598e310ef3b0c7eb5b16c3be6f5
+SHA256: 3c7ff9d164801f5f6173e8f5c62569693409ee86d791e32ac00227b10ca37af6
+Section: Tweaks
+Description: Adds seconds to your lockscreen clock, change font size of time and date, and moves them!
+Author: Kiet Ha <kaitouiet@gmail.com>
+Icon: file:///Library/PreferenceBundles/FFTPref.bundle/kiet2x.png
+Installed-Size: 214
+Name: FastForwardTime
+Priority: optional
+dev: kaitouiet
+
 Package: com.ziad.foxforttools
 Version: 1.0.7
 Architecture: iphoneos-arm
