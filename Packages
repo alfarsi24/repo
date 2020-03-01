@@ -536,6 +536,22 @@ Author: Ziad
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Name: CallBar XS (iOS 12) Rus
 
+Package: com.ziad.complications
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Ben Giannis
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), applist, com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Filename: ./debs/com.ziad.complications_2.2_iphoneos-arm.deb
+Size: 593992
+MD5sum: 324543d42c34147c7320ac25c8550be8
+SHA1: bb6917ba698e375575d99a0c8a72520ae1e232d3
+SHA256: e01acd132465703ee8bba496004b4940b4c5c2a78a9623421e62633c01e92355
+Section: Tweaks
+Description: watchOS widgets on your lock screen
+Author: Ben Giannis
+Installed-Size: 1780
+Name: Complications Z
+
 Package: com.ziad.cracktool4
 Version: 4.0~beta7
 Architecture: iphoneos-arm
