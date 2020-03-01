@@ -827,6 +827,20 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
 Name: Translomatic
 
+Package: com.yourepo.storeali.hackpubgmodmenua13
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: @BossAli <3llawi416@gmail.com>
+Filename: ./debs/com_yourepo_storeali_hackpubgmodmenua13_1.deb
+Size: 2807058
+MD5sum: 49c80c0bcf498f76977e30e0eb2770f6
+SHA1: 822396eec54d152ad60f8a2e822b7cfe8b018150
+SHA256: 74440943419dfa813acc2975908347ccc102c8bb862b6980153bdf7db95b48dc
+Section: Tweaks
+Description: PUBG MOD MENU JOKER+HSK+ZUWL editor by @Bossali
+Author: @bossAli <3llawi416@gmail.com>
+Name: HACK PUBG MOD MENU A13
+
 Package: com.yourepo.storeali.beta-hostv2
 Version: 1.0.3
 Architecture: iphoneos-arm
