@@ -297,25 +297,6 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Installed-Size: 3528
 Name: Boxy 3 (iOS 11 - 12) Z
 
-Package: com.ziad.callbarxs
-Version: 2.2-5
-Architecture: iphoneos-arm
-Maintainer: Ziad
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.ziad.limneosos, ru.rejail.limneosos
-Replaces: net.limneos.callbarxs
-Filename: ./debs/com.pulandres.callbarxs_2.deb
-Size: 414166
-MD5sum: 49fe4bb64788be1bdb47ef50861da40d
-SHA1: 763e1fce6f850b9c74f9fbea200d856f5a8f6070
-SHA256: 4a644ae04eb7d011c79fdb2d8313c44209040035b0904ce0cc9d1de51fe5ff2e
-Section: Tweaks
-Description: تغيير نمط مكالماتك
-Author: Ziad <mmnnm1937@hotmail.com>
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Installed-Size: 788
-Name: CallBar XS Cracked Z
-
 Package: com.ziad.easyaccess
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -669,6 +650,23 @@ Description: Утилита iCleanerPro аналог CCleaner для PC
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
+
+Package: com.ziad.libfoxfortutils
+Version: 1.0.20
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Depends: firmware (>= 11.0), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./debs/com.ziad.libfoxfortutils_1.0.20_iphoneos-arm.deb
+Size: 1480890
+MD5sum: f40d25793773a4a074ad34ed93a0c536
+SHA1: 7e9e6f61c5e692964e36fdddcead48da8a4aee9c
+SHA256: 970fb2e1f7f61b0e3d64d37256089812b662f9a87fafcd9126154fe53387448e
+Section: System
+Description: Basic utilities for Foxfort tweaks
+Author: FoxfortMobile
+Installed-Size: 4368
+Name: libfoxfortutils
 
 Package: com.ziad.libfoxfortutils
 Version: 1.0.9
