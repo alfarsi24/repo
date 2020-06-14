@@ -148,6 +148,23 @@ Installed-Size: 448
 Name: NeonBoard
 Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
 
+Package: com.ziad.icleanerpro
+Version: 7.8.3
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.8.deb
+Size: 9505892
+MD5sum: 61a92ed1ccfa63ce168f6c6e9700fd44
+SHA1: afa8c5f2c1198d90f6839750ac1218ac051c4295
+SHA256: 71943376f800f4d9525bac9e5f3137ec65ab0a37af46b0736c2906aae5223d39
+Section: Utilities
+Author: ziad <mmnnm1937@hotmail.com>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
 Package: com.fidele007.khmersmarterkeyboard
 Version: 1.5.4
 Architecture: iphoneos-arm
