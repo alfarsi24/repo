@@ -165,6 +165,21 @@ Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterke
 Installed-Size: 480
 Name: Khmer Smarter Keyboard
 
+Package: com.ziad.libhdev
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/com.haoict.libhdev_4.1.deb
+Size: 59528
+MD5sum: 6f05f1a39f20c16564166e37a0af269b
+SHA1: c0c026567b48f8044c96697cb968e3e7e1df9a0e
+SHA256: c983a47c39e2016b3e2211169d73e6b0874cd1478014707e73dc70c540b710fb
+Section: System
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Installed-Size: 312
+Name: libhdev Z
+
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1-6+debug
 Architecture: iphoneos-arm
