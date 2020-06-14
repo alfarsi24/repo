@@ -436,6 +436,21 @@ Name: AppStore++
 Priority: optional
 dev: 
 
+Package: com.ziad.arabhack
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: Arab-Crack
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.ziad.arabhack_3.2_iphoneos-arm.deb
+Size: 513596
+MD5sum: 63bcd1b7762bed2f6de360e1c221bb54
+SHA1: 83b014280efa89589aeb8cccacc2f17336b6d50c
+SHA256: da9b8a68eb78740d30268abd42cc50058f7acfcebc42544376da578b16bf7e6f
+Section: Tweaks
+Description: اداة لتهيكر التطبيقات بضغطة زر
+Author: aJBbo For ArabCrackTeam
+Name: Arab Hack
+
 Package: com.ziad.axon
 Version: 0.1.9
 Architecture: iphoneos-arm
