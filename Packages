@@ -959,6 +959,22 @@ Paid: Free
 Priority: optional
 Source: Customize your 5-Row keyboard
 
+Package: me.ziad.axon
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/me.nepeta.axon_1.deb
+Size: 195896
+MD5sum: 6f7cb48cd29d8eef0d1d921e3f1456f8
+SHA1: 3ff24558dbf94eb7d58016d26370537105c0a4f3
+SHA256: 4cd33d3f8dea3cbec173985646021c4bb426f5f159a93792441345b7c97a83a2
+Section: Tweaks
+Author: Nepeta & Baw Appie
+Installed-Size: 576
+Name: Axon (ios11-ios13)
+
 Package: net.limneos.fixactivatorplaypause
 Version: 0.0.1-4
 Architecture: iphoneos-arm
