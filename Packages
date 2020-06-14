@@ -666,6 +666,25 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
 
+Package: com.ziad.instanoads
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.haoict.libhdev
+Filename: ./debs/com.ziad.instanoads_1.1.0_iphoneos-arm.deb
+Size: 63912
+MD5sum: 40d1ee8fa4bef45cef488756b8562c91
+SHA1: 46f860fbe182ab97fedac209dc7889d81c437696
+SHA256: 06d0a3cc347ade831f4deebedc629d0f96195058338ae7678434813ae9468d38
+Section: Tweaks
+Description: ازالة اعلانات الانستجرام
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Icon: file:///Library/PreferenceBundles/INAPref.bundle/icon@2x.png
+Installed-Size: 384
+Name: Instagram No Ads
+Priority: optional
+dev: haoict
+
 Package: com.ziad.libfoxfortutils
 Version: 1.0.20
 Architecture: iphoneos-arm
