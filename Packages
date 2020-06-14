@@ -165,6 +165,21 @@ Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterke
 Installed-Size: 480
 Name: Khmer Smarter Keyboard
 
+Package: com.ziad.instanoads
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>=4.0.0), firmware (>= 10)
+Filename: ./debs/com.haoict.instanoads_2.0.deb
+Size: 72620
+MD5sum: 7253406a4a5ddb7a51b954bb71818be3
+SHA1: 61d9a59dc2a944c0d147fbfd572dc6e4f7857815
+SHA256: 3763a5e1f6240145fd215b0a670eb96af93dd08d264719127eff07f84a91a2ea
+Section: Tweaks
+Author: Hao Nguyen
+Installed-Size: 348
+Name: Instagram No Ads
+
 Package: com.ziad.libhdev
 Version: 4.1.0
 Architecture: iphoneos-arm
