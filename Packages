@@ -212,6 +212,27 @@ Author: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 312
 Name: libhdev Z
 
+Package: com.ichitaso.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm (1).deb
+Size: 355348
+MD5sum: 0382a5ad958ca769673d130fbd097c52
+SHA1: 846fed1f614d786ae711cd8dd9e5c0146cd4725e
+SHA256: 7684a011544aa68c7677387ef6e0bcde43fc2f068c40f8b6f4c1e6dc6750bd9b
+Section: Utilities
+Description: اداة تجمع عناصر مهمه من اعادة تشغيل واصلاح الكراش
+Author: ziad <mmnnm1937@hotmail.com>
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Installed-Size: 1860
+Name: PowerSelector (iOS 11 to 13)
+Pre-Depends: firmware (>= 11.0)
+dev: ichitaso
+
 Package: com.midcoreboot.zolivolxi
 Version: 0.0.1-6+debug
 Architecture: iphoneos-arm
