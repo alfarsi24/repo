@@ -148,24 +148,6 @@ Installed-Size: 448
 Name: NeonBoard
 Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
 
-Package: com.creaturecoding.shuffle
-Version: 0.8.0b
-Architecture: iphoneos-arm
-Maintainer: CreatureSurvive <support@creaturecoding.com>
-Depends: mobilesubstrate, com.creaturecoding.libcspreferences
-Conflicts: com.cpdigitaldarkroom.placeholder
-Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/com.creaturecoding.shuffle_0.8.0b_iphoneos-arm.deb
-Size: 123260
-MD5sum: 4334f7cf5cbd17b2e0809aecba924b40
-SHA1: 14a3fa54255813f2e8e9e7c3c5053d14514143d6
-SHA256: ce65ce89d66f1c5134467ab9b5cf681b852e75047284738bf01254f58782537a
-Section: Tweaks
-Description: Mix up your preferences
-Author: CreatureSurvive <support@creaturecoding.com>
-Installed-Size: 472
-Name: shuffle
-
 Package: com.fidele007.khmersmarterkeyboard
 Version: 1.5.4
 Architecture: iphoneos-arm
