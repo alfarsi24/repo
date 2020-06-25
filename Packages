@@ -796,6 +796,22 @@ Section: Tweaks
 Author: anondev <repo@hackyouriphone.org>
 Name: LocalIAPStore
 
+Package: com.ziad.lowbatterybanner
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: ./debs/com.ziad.lowbatterybanner_1.0.2_iphoneos-arm.deb
+Size: 12798
+MD5sum: be7145753d63188a3cd2797ed22e6f3a
+SHA1: 992ea267ab78ba43d046e0c1aeecf2c4fa15cad8
+SHA256: c336bb7b8a5df53a1f76c3c16e3383165fa9461f7a67d8d292b4ae7c1a7e1475
+Section: Tweaks
+Description: استبدل تنبيه الطاقة المنخفضة بإعلام بانر!
+Author: Spark
+Installed-Size: 264
+Name: LowBatteryBanner [Public]
+
 Package: com.ziad.pasithea2
 Version: 2.1.9
 Architecture: iphoneos-arm
