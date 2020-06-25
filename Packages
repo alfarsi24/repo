@@ -766,6 +766,20 @@ Author: Ziad
 Installed-Size: 840
 Name: libfoxfortutils
 
+Package: com.ziad.localiapstore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Hmodei96 <hmodei321@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ziad.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 70984
+MD5sum: 77ebdf9302c531f996e7b58648f1303e
+SHA1: 4d480b35aa1e2bc3e3e009d9a46253189e882b5c
+SHA256: 506f1bd38274125fff0339cf8f81975788f971b04ae72d48e60d413a01328466
+Section: Tweaks
+Author: anondev <repo@hackyouriphone.org>
+Name: LocalIAPStore
+
 Package: com.ziad.pasithea2
 Version: 2.1.9
 Architecture: iphoneos-arm
