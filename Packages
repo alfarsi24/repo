@@ -816,6 +816,24 @@ Author: Ziad
 Installed-Size: 644
 Name: PUBG Mod Menu
 
+Package: com.ziad.shuffle
+Version: 0.8.0b
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.ziad.shuffle_0.8.0b_iphoneos-arm.deb
+Size: 123280
+MD5sum: 428af9e49de3a9bb78cf46b51313606e
+SHA1: 844fd485be9a6ca81984c351f2aa140d1cb07194
+SHA256: bee5047481bddf31d0f447ee4648aa424b931f01f81b5c2bbca6e68b6db77eca
+Section: Tweaks
+Description: Mix up your preferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 472
+Name: shuffle
+
 Package: com.ziad.snapper2
 Version: 2.2.1
 Architecture: iphoneos-arm
