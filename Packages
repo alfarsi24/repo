@@ -446,6 +446,24 @@ Icon: https://alfarsi23.github.io/repo/CydiaIcon.png
 Installed-Size: 852
 Name: SmartBattery Z
 
+Package: com.ziad.abetterprivacyforwhatsapp
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: ziad <mmnnm1937@hotmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.ziad.abetterprivacyforwhatsapp_1.4.8_iphoneos-arm.deb
+Size: 197302
+MD5sum: 01389d300b361bf8bd33507c711ab441
+SHA1: e957d55aec2da2376905c3d7a58b272512b465d9
+SHA256: 92c9fe9369bd989af978448b8baf42878c395d78eac60179ff4292dc73c2a611
+Section: Tweaks
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: file:///Library/PreferenceBundles/ABetterPrivacyforWhatsApp.bundle/ABetterPrivacyforWhatsApp@2x.png
+Installed-Size: 1022
+Name: ABetterPrivacyforWhatsApp
+Priority: optional
+dev: lucaluca86
+
 Package: com.ziad.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
