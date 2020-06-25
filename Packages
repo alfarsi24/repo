@@ -917,6 +917,23 @@ Description: Host VIP and Liberty lite-Antiban By BossAli VIP
 Author: storeali-sa <3llawi416@gmail.com>
 Name: Beta-HostV2
 
+Package: iostamara.dayn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JannikCrack, Devvix
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Replaces: com.jannikcrack.dayn
+Filename: ./debs/iostamara.dayn_1.1_iphoneos-arm.deb
+Size: 581004
+MD5sum: e7d8343f57a99c7579d121ffb7c15d93
+SHA1: 6836a03b2c87f26e9f9e8f3a9001a5fd0c2b34cf
+SHA256: 615fd6b977f7c087186644ef1dab7c0e670c94dbc777f55a138b83b00cc4c4da
+Section: Tweaks
+Author: JannikCrack, Devvix
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Installed-Size: 1288
+Name: Dayn
+
 Package: com.ziad.jkefree
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm
