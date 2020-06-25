@@ -612,6 +612,22 @@ Author: Ben Giannis
 Installed-Size: 3196
 Name: Complications
 
+Package: com.ziad.coronacounter
+Version: 3
+Architecture: iphoneos-arm
+Maintainer: MegaDev & Simon021
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.ziad.coronacounter_3_iphoneos-arm.deb
+Size: 126204
+MD5sum: 7d1bdd7a29a4a7ae8cf24134bf000ba6
+SHA1: 83644c75cb509cd74e6dbb4233b64d83c19797b5
+SHA256: 34931c671ae1bfb1d485c813f52bc2ccd47d589ad8de9a3a5d72548cb1c4b27b
+Section: Tweaks
+Description: اداة تظهر نسبة المصابين بمرض كرونا والرفيات والشفاء
+Author: MegaDev & Simon021
+Installed-Size: 460
+Name: CoronaCount
+
 Package: com.ziad.cracktool4
 Version: 4.0~beta7
 Architecture: iphoneos-arm
